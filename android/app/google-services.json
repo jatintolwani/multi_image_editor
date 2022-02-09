@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062078011544",
+    "project_id": "multi-image-c40aa",
+    "storage_bucket": "multi-image-c40aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062078011544:android:c5e70c099349ceeeafd8ed",
+        "android_client_info": {
+          "package_name": "com.example.multi_image_picker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062078011544-7fbdhptmefpeb01rv2l4lqt3mddvem82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaD8g7R6FF7EOU4e_2oeaQyU4ln2E5kL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062078011544-7fbdhptmefpeb01rv2l4lqt3mddvem82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
